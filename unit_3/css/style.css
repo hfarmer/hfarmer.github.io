@@ -1,5 +1,5 @@
 body {
-	background-size: cover;
+	background-size: contain;
 	color: rgba(0,0,0,.3);
 }
 h1 {
