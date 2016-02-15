@@ -2,29 +2,32 @@ body {
 	background-color: rgb(202,231,255)
 }
 
+h1 {
+	font-family: "Lucida Sans Unicode";
+	font-weight: bold;
+	font-size: 45px;
+	color: rgb (255,185,110);
+	text-align: center;
+}
+
 #slogan {
 	font-family: "Lucida Grande";
 	font-weight: normal;
-	font-size: 28px;
+	font-size: 18px;
 	font-style: italic;
-	color: rgb (63,98,127);
+	color: rgb (255,213,123);
 }
 
 #contact {
 	font-family: "Lucida Grande";
 	font-weight: normal;
 	font-size: 12px;
+	color: rgb (255,185,110);
+
 }
 
-#mainimage {
-	width: 610px;
+div {
+	width: 400px;
 }
 
-h1 {
-	font-family: "Lucida Sans Unicode";
-	font-weight: bold;
-	font-size: 45px;
-	color: rgb(31,230,255);
-	text-align: center;
-}
 
