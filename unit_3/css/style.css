@@ -7,7 +7,7 @@ body {
 	font-weight: normal;
 	font-size: 28px;
 	font-style: italic;
-	color: rgb(15,115,127);
+	color: rgb(63,98,127);
 }
 
 #contact {
@@ -18,7 +18,7 @@ body {
 }
 
 #mainimage {
-	width: 80%;
+	width: 40%;
 }
 
 h1 {
