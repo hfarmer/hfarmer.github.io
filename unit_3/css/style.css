@@ -1,0 +1,22 @@
+body {
+	background-image: "brooklynwaterworkout1.jpg"
+}
+h1 {
+	font-family: "Lucida Sans Unicode"
+	font-weight: bold;
+	font-size: 24px;
+	color:1FE6FF;
+}
+#slogan {
+	font-family: "Lucida Grande"
+	font-weight: normal;
+	font-size: 18px;
+	font-style: italic;
+	color:0F737F;
+}
+#contact {
+	font-family: "Lucida Grande"
+	font-weight: normal;
+	font-size: 12px;
+	color:19B8CC;
+}
