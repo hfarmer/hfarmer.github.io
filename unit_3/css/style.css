@@ -1,12 +1,5 @@
 body {
-	background-size: 50%;
-
-h1 {
-	font-family: "Lucida Sans Unicode";
-	font-weight: bold;
-	font-size: 45px;
-	color: rgb(31,230,255);
-	text-align: center;
+	background-color: rgb(202,231,255)
 }
 
 #slogan {
@@ -27,3 +20,12 @@ h1 {
 #mainimage {
 	width: 80%;
 }
+
+h1 {
+	font-family: "Lucida Sans Unicode";
+	font-weight: bold;
+	font-size: 45px;
+	color: rgb(31,230,255);
+	text-align: center;
+}
+
