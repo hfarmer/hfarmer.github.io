@@ -1,19 +1,18 @@
 body {
-	background-size: contain;
-	color: rgba(0,0,0,.3);
-}
+	background-size: auto;
 h1 {
 	font-family: "Lucida Sans Unicode";
 	font-weight: bold;
-	font-size: 24px;
-	color:1FE6FF;
+	font-size: 36px;
+	color: rgb(31,230,255);
+	text-align: center;
 }
 #slogan {
 	font-family: "Lucida Grande"
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 26px;
 	font-style: italic;
-	color:0F737F;
+	color: rgb(15,115,127);
 }
 #contact {
 	font-family: "Lucida Grande"
