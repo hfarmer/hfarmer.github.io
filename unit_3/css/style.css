@@ -19,15 +19,9 @@ h1 {
 	text-align: center;
 }
 
-#contact {
-	font-family: "Lucida Grande", Sans;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgb (255,185,110);
-}
-
 .month {
     float: left;
+    border-style: solid;
     width: 197px;
     height: 197px;
     border: 2px black; 
@@ -35,6 +29,11 @@ h1 {
     font-family: "Lucida Grande", Sans;
 	font-weight: bold;
 	font-size: 16px;
-
 }
 
+#contact {
+	font-family: "Lucida Grande", Sans;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgb (255,185,110);
+}
