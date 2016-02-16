@@ -34,6 +34,7 @@ h1 {
 }
 
 #contact {
+	   float: left;
 	font-family: "Lucida Grande", Sans;
 	font-weight: normal;
 	font-size: 12px;
