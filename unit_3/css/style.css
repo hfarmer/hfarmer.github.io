@@ -16,10 +16,12 @@ h1 {
 	font-size: 14px;
 	font-style: italic;
 	color: rgb(255,213,123);
+	text-align: center;
 }
 
 #mainimage {
 	background-image: center;
+	vertical-align: center;
 }
 
 #contact {
