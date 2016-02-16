@@ -6,16 +6,20 @@ h1 {
 	font-family: "Lucida Sans Unicode", Sans;
 	font-weight: bold;
 	font-size: 45px;
-	color: rgb (255,185,110);
+	color: rgb(255,185,110);
 	text-align: center;
 }
 
 #slogan {
 	font-family: "Lucida Grande", Sans;
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 14px;
 	font-style: italic;
-	color: rgb (255,213,123);
+	color: rgb(255,213,123);
+}
+
+#mainimage {
+	background-image: center;
 }
 
 #contact {
