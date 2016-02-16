@@ -1,5 +1,6 @@
 body {
-	background-image: url("/Users/Hannah/Documents/General Assembly HTML and CSS Class/hfarmer.github.io/unit_3/images/brooklynwaterworkoutTOP.jpg") alt="city skyline" title="view of NYC from Brooklyn waterfront" width="1250">;
+	background-image: url("/Users/Hannah/Documents/General Assembly HTML and CSS Class/hfarmer.github.io/unit_3/images/brooklynwaterworkoutTOP.jpg");
+	background-size: contain;
 	background-color: rgb(255,255,229);
 }
 
