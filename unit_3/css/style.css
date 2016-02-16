@@ -26,7 +26,9 @@ h1 {
 	color: rgb (255,185,110);
 }
 
-.month {
+.month1 {
+    float: left;
+    margin: 8px;
     width: 197px;
     height: 197px;
     border: 2px black; 
