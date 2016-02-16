@@ -1,5 +1,5 @@
 body {
-	background-image: url("/Users/Hannah/Documents/General Assembly HTML and CSS Class/hfarmer.github.io/unit_3/images/brooklynwaterworkoutTOP.jpg");
+	background-image: url("/hfarmer.github.io/unit_3/images/brooklynwaterworkoutTOP.jpg");
 	background-size: contain;
 	background-color: rgb(255,255,229);
 }
@@ -15,15 +15,16 @@ h1 {
 #slogan {
 	font-family: "Lucida Grande", Sans;
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: italic;
 	color: rgb(255,185,110);
 	text-align: center;
+}
 
 #contact {
 	font-family: "Lucida Grande", Sans;
 	font-weight: normal;
 	font-size: 12px;
 	color: rgb (255,185,110);
-
+}
 
