@@ -1,6 +1,6 @@
 body {
 	background-image: url("/hfarmer.github.io/unit_3/images/brooklynwaterworkoutTOP.jpg");
-	background-size: contain;
+	background-size: cover;
 	background-color: rgb(255,255,229);
 }
 
