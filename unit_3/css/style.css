@@ -30,7 +30,7 @@ h1 {
     width: 200px;
     height: 200px;
     border: 2px black; 
-    box-sizing; border-box;
+    padding: 1px rgb(255,185,110);
     font-family: "Lucida Grande", Sans;
 	font-weight: bold;
 	font-size: 16px;
