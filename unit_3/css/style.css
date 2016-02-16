@@ -28,7 +28,6 @@ h1 {
 
 .month1 {
     float: left;
-    margin: 8px;
     width: 197px;
     height: 197px;
     border: 2px black; 
@@ -37,4 +36,14 @@ h1 {
 	font-weight: bold;
 	font-size: 16px;
 
+}
+.month4 {
+	float: right;
+    width: 197px;
+    height: 197px;
+    border: 2px black; 
+    padding: 1px black;
+    font-family: "Lucida Grande", Sans;
+	font-weight: bold;
+	font-size: 16px;
 }
