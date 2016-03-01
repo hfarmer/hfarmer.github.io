@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Vidaloka);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=BenchNine:400,300);
+
+body {
+	background-image: url("../images/brooklynwaterworkoutEDITED.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.navbutton {
+	font-family: "BenchNine", Sans;
+	font-weight: bold;
+	font-size: 16px;
+	letter-spacing: .09em;
+	text-align: right;
+	color: rgb(255,255,255);
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	border: 3px solid white;
+    background-color: rgba(188,66,103,.7);
+    position: relative;
+    top: 25px;
+}
+
+h1 {
+	font-family: "Raleway", Serif;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgb(255,255,255);
+	text-align: left;
+	margin-top: 145px;
+	margin-bottom: 0px;
+}
+
+#slogan {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgb(255,255,255);
+	text-align: left;
+	width: 50%;
+	margin-top: -6px;
+	margin-left: 10px;
+	letter-spacing: 1.5px;
+}
+
+.firstmonth {
+	display: block;
+	margin: 500px 60px 60px 60px;
+	border: 4px solid black;
+	font-family: "BenchNine", Sans;
+    font-size: 45px;
+    color: rgb(188,66,103);
+  	background-color: rgba(144,171,192,.3);
+}
+.amonth {
+	display: block;
+	margin: 150px 60px 60px 60px;
+	border: 4px solid black;
+	font-family: "BenchNine", Sans;
+    font-size: 45px;
+    color: rgb(188,66,103);
+    background-color: rgba(144,171,192,.3);
+
+}
+
+.bmonth {
+	display: block;
+	margin: 150px 60px 60px 60px;
+	border: 4px solid black;
+	font-family: "BenchNine", Sans;
+    font-size: 45px;
+    color: rgb(188,66,103);
+    background-color: rgba(20,41,64,.3);
+}
+
+.monthtext {
+  	font-family: "Raleway", Serif;
+    color: rgb(255,255,255);
+    text-align: left;
+}
+
+h3 {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	text-align: left;
+	font-size: 18px;
+
+
+}
+
+#contact {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgb(188,66,103);
+	padding: 100px 0 0 0 ;
+}
