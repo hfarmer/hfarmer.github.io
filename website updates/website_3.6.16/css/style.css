@@ -1,0 +1,125 @@
+@import url(https://fonts.googleapis.com/css?family=Vidaloka);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=BenchNine:400,300);
+
+body {
+	background-image: url("../images/brooklynwaterworkoutEDITED.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.navbutton {
+	font-family: "BenchNine", Sans;
+	font-weight: bold;
+	font-size: 16px;
+	letter-spacing: .09em;
+	text-align: right;
+	color: rgb(255,255,255);
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	border: 0px solid white;
+    background-color: rgba(141,204,204,.8);
+    position: relative;
+    top: 25px;
+}
+
+.navbutton:hover {
+	border: 3px solid gray;
+}
+
+h1 {
+	font-family: "Raleway", Serif;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgb(255,255,255);
+	text-align: left;
+	margin-top: 145px;
+	margin-bottom: 0px;
+}
+
+#slogan {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgb(255,255,255);
+	text-align: left;
+	width: 47%;
+	margin-top: -6px;
+	margin-left: 10px;
+	letter-spacing: 1.5px;
+	padding-left: 10px;
+	background-color: rgba(141,204,204,.8);
+
+}
+
+.topmonth {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin: 500px 40px 40px 65px;
+	background-color: rgba(141,204,204,.8);
+	text-align: center;
+	border: 3px solid white;
+
+}
+
+.topmonth:hover {
+	border: 3px solid gray;
+}
+
+.month {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin: 40px 40px 40px 65px;
+	font-family: "BenchNine", Sans;
+	background-color: rgba(141,204,204,.8);
+	text-align: center;
+	border: 3px solid white;
+}
+
+.month:hover {
+	border: 3px solid gray;
+}
+
+.monthtext {
+  	font-family: "Raleway", Serif;
+    color: rgb(255,255,255);
+    text-align: center;
+    font-size: 35px;
+    padding-top: 30px;
+}
+.footstep {
+	display: block;
+	width: 40px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
+.stepcount{
+  	font-family: "Raleway", Serif;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgb(255,255,255);
+	text-align: center;
+	margin-top: 30px;
+}
+
+h3 {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	text-align: left;
+	font-size: 18px;
+
+
+}
+
+#contact {
+	font-family: "BenchNine", Sans;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgb(188,66,103);
+	padding: 100px 0 0 0 ;
+}
